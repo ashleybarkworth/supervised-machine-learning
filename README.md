@@ -1,4 +1,4 @@
-# supervised-ml-algorithms
+# supervised-machine-learning
 Implementation of five supervised learning algorithms evaluated against five different data sets using 10 times 5-fold cross validation.
 UNB's CS6735 programming assignment.
 
